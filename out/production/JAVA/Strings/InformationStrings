@@ -1,0 +1,26 @@
+How to get char array scanned
+char[] str1=sc.next().toCharArray();
+
+To get the value of string (Not refernce)
+String.valueOf(str2);
+
+How to convert string free from punctuations?
+using regex===  str=str.replaceAll("\\p{Punct}","");
+
+Basics :
+
+Function to copy string
+Pangram Checking
+Missing characters to make a string Pangram
+Check if a string is Pangrammatic Lipogram
+Removing punctuations from a given string
+Rearrange characters in a string such that no two adjacent are same
+Program to check if input is an integer or a string
+Quick way to check if all the characters of a string are same
+Program to find the initials of a name
+Check Whether a number is Duck Number or not
+Round the given number to nearest multiple of 10
+Change string to a new character set
+Find one extra character in a string
+Done all;
+
