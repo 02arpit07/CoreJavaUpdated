@@ -17,11 +17,11 @@ public class MaxSegmentValueAfterKbreakpoints {
             //we will get 1233 in result after completeion of this loop.
         }
         //Now we need to check the next segments using sliding window.
-        int segmentLenPow=(int)Math.pow(10,(segmentlen-1));
+        int segmentLenPow=(int)Math.pow(10,(segmentlen-1));//This would remain fixed. acc to particular string length(10^(4-3)=1000)
         int curr=result;
-        for(int i=1;i<=(str.length()-segmentlen);i++)
+        for(int i=1;i<=k;i++)
         {
-            curr=curr-(str.charAt(i-1)-'0')*segmentLenPow;  //removing 1 from 1233 to make it 233.
+            curr=curr-(str.charAt(i-1)-'0')*segmentLenPow;  //removing 1 from 1233 to make it 233.(1233-1000)
 
             curr=curr*10+(str.charAt(i+segmentlen-1)-'0');// adding trailing digit to make it 2332
 

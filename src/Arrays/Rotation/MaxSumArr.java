@@ -23,9 +23,7 @@ public class MaxSumArr {
             while (n > 1) {
                 rotateArrayBy1(arr);
                 n=n-1;
-                if(n!=1) {
-                    getMax(arr, len, n);
-                }
+                getMax(arr, len, n);
             }
 
         return MaxSum;

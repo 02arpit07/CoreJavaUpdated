@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f385f2d-55fe-47ac-97d0-1c8637044be2" name="Default Changelist" comment="" />
+    <list default="true" id="7f385f2d-55fe-47ac-97d0-1c8637044be2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/Arrays/Rotation/MaxSumArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/Arrays/Rotation/MaxSumArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="235" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -29,82 +39,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CountPalindromic.java">
+        <entry file="file://$PROJECT_DIR$/src/FinalRevision/KadaneAlgo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="528">
+              <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/HackWithInfy.java">
+        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/STQUES2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/StringCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arrays/RandomW3Resource/SimpleQues.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/AddTwoNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSumEfficient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="1188">
+              <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/UniqueSubstring.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="616">
+              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -130,52 +77,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BasicInterviewQues/SiblingGRAB.java" />
-        <option value="$PROJECT_DIR$/src/BasicInterviewQues/StringQuesGRAB.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Rearrangement/ArrangeNegPosAlternate.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Rearrangement/ProdOfArrayPuzzle.java" />
-        <option value="$PROJECT_DIR$/src/Strings/JavaStrings/BiggestStringInLength.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Rearrangement/ProductOfAllSubArrays.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/Rearrangement/SubArrayWithProductN.java" />
-        <option value="$PROJECT_DIR$/src/Recursion/AdvancedRecursion/FloodFiLL.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/CountOfelementInSorted4.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/FindElementInRotSortArray6.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/UsingLinear5.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/TotalTimeSortedArrayRotated5.java" />
-        <option value="$PROJECT_DIR$/src/Recursion/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/Recursion/PrintFibSeries.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/AlphabeticCeil7.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/PairSum1.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/TripletWith0Sum2.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/ClosestPairFrom2SortedArray.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/ClosestPairFrom2SortedArrayNative3.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/ClosestPairFrom2SortedArrayEfficent4.java" />
-        <option value="$PROJECT_DIR$/src/TwoPointerAlgorithm/TripletWithSumN_5.java" />
-        <option value="$PROJECT_DIR$/src/WiproTalentNext/DisplaySecondWordUpperCase.java" />
-        <option value="$PROJECT_DIR$/src/BasicInterviewQues/PerfectNumber.java" />
-        <option value="$PROJECT_DIR$/src/BasicInterviewQues/PerfectNumberWhile.java" />
-        <option value="$PROJECT_DIR$/src/Arrays/RandomW3Resource/AddAllPrime.java" />
-        <option value="$PROJECT_DIR$/src/WiproTalentNext/HighFreqDigitin4Numbers.java" />
-        <option value="$PROJECT_DIR$/src/WiproTalentNext/HighFreqDigitIn4NumberUsingStrings.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/ElemThatAppears1Time1.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/ElemThatAppears1TimeBiwise1.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/CheckIfSignsAreOpposite2.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/Add1toaNumberUsingBitwise.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/MultiplyIntegerWith3point5_4.java" />
-        <option value="$PROJECT_DIR$/src/BitManipulation/Add1toaNumberUsingBitwise_3.java" />
-        <option value="$PROJECT_DIR$/src/WiproTalentNext/StringWeight.java" />
-        <option value="$PROJECT_DIR$/src/Hashing/SecondTime/HashCodeAndEquals.java" />
-        <option value="$PROJECT_DIR$/src/Hashing/HashMapAnagramQues.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Anagrams.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/AnagramSelf.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CheckBinary.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CipherCaeser.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CountPalindromic.java" />
-        <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/HackWithInfy.java" />
         <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams.java" />
         <option value="$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams1.java" />
         <option value="$PROJECT_DIR$/src/WiproTalentNext/StringCode.java" />
@@ -184,20 +91,67 @@
         <option value="$PROJECT_DIR$/src/WiproTalentNext/UniqueSubstring.java" />
         <option value="$PROJECT_DIR$/src/WiproTalentNext/AddTwoNumber.java" />
         <option value="$PROJECT_DIR$/src/WiproTalentNext/CyclicSumEfficient.java" />
+        <option value="$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOftimeStringoccurasSubeq.java" />
+        <option value="$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOftimeStringoccurasSubeq2.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/StringPatternFind.java" />
+        <option value="$PROJECT_DIR$/src/Strings/ArithmeticOperations/SumOfTwoLargeNumber.java" />
+        <option value="$PROJECT_DIR$/src/Strings/ArithmeticOperations/SumOfOnlyNumbersInString.java" />
+        <option value="$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxNumericValueinString.java" />
+        <option value="$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/demo.txt" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/InputOutputStreams.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/ReplaceOccurence.java" />
+        <option value="$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOfSubseqASabINString.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdditionalConceptQues/ThreadCreation.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdditionalConceptQues/Mutithreading/ThreadCreation.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdditionalConceptQues/Mutithreading/ThreadCreationUsingRunnableInterface.java" />
+        <option value="$PROJECT_DIR$/src/FinalRevision/SubarrayWithGivenSum1.java" />
+        <option value="$PROJECT_DIR$/src/FinalRevision/SubArrayWithGivenSum2.java" />
+        <option value="$PROJECT_DIR$/src/FinalRevision/SubArrayWithGivenSum3.java" />
+        <option value="$PROJECT_DIR$/src/FinalRevision/CountTriplets4.java" />
+        <option value="$PROJECT_DIR$/src/DeleteAtEnd.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/LongestSubstringa___s.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/LongestSubstring_a_s.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/Serialization.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/LongestSubstring2.java" />
+        <option value="$PROJECT_DIR$/src/Collections/ListInterface/Student.java" />
+        <option value="$PROJECT_DIR$/src/Collections/ListInterface/MainClassStrudent.java" />
+        <option value="$PROJECT_DIR$/src/Collections/ListInterface/Assignment.java" />
+        <option value="$PROJECT_DIR$/src/Hashing/StudentHashSet.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/Basic/Ques1.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/Ques1.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/FileOutputStream/FOSexample.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/FileOutputStream/FOSexamplewriteString.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/FileInputStream/Arpit.txt" />
+        <option value="$PROJECT_DIR$/src/JavaIO/FileInputStream/FISsinglechar.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/FileInputStream/FISstring.java" />
+        <option value="$PROJECT_DIR$/src/JavaIO/Javatpoint.txt" />
+        <option value="$PROJECT_DIR$/src/JavaIO/BufferedOutputStreamExample.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdditionalConceptQues/Enumeration.java" />
+        <option value="$PROJECT_DIR$/src/JavaAdditionalConceptQues/Enumeration1.java" />
+        <option value="$PROJECT_DIR$/src/FinalRevision/KadaneAlgo5.java" />
+        <option value="$PROJECT_DIR$/src/WiproTalentNext/STQUES2.java" />
+        <option value="$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="155" />
+    <option name="y" value="-20" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,37 +164,18 @@
               <item name="JAVA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-              <item name="RandomW3Resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WiproTalentNext" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angularmechanics-master" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/covid-tracker/covid-tracker" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -261,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CyclicSumEfficient">
-    <configuration name="CyclicSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WiproTalentNext.CyclicSum" />
+  <component name="RunManager" selected="Application.MaxSumArr">
+    <configuration name="BufferedOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaIO.BufferedOutputStreamExample" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WiproTalentNext.*" />
+          <option name="PATTERN" value="JavaIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicSumEfficient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WiproTalentNext.CyclicSumEfficient" />
+    <configuration name="Enumeration1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAdditionalConceptQues.Enumeration1" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WiproTalentNext.*" />
+          <option name="PATTERN" value="JavaAdditionalConceptQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleQues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RandomW3Resource.SimpleQues" />
+    <configuration name="KadaneAlgo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalRevision.KadaneAlgo5" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.RandomW3Resource.*" />
+          <option name="PATTERN" value="FinalRevision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WiproTalentNext.StringCode" />
+    <configuration name="MaxSumArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Rotation.MaxSumArr" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="WiproTalentNext.*" />
+          <option name="PATTERN" value="Arrays.Rotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,8 +249,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WiproTalentNext.UniqueSubstring" />
+    <configuration name="STQUES2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WiproTalentNext.STQUES2" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -329,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CyclicSumEfficient" />
-        <item itemvalue="Application.UniqueSubstring" />
-        <item itemvalue="Application.CyclicSum" />
-        <item itemvalue="Application.SimpleQues" />
-        <item itemvalue="Application.StringCode" />
+        <item itemvalue="Application.MaxSumArr" />
+        <item itemvalue="Application.STQUES2" />
+        <item itemvalue="Application.KadaneAlgo5" />
+        <item itemvalue="Application.Enumeration1" />
+        <item itemvalue="Application.BufferedOutputStreamExample" />
       </list>
     </recent_temporary>
   </component>
@@ -451,18 +386,54 @@
       <workItem from="1594792723424" duration="497000" />
       <workItem from="1594873045112" duration="1061000" />
       <workItem from="1594960239867" duration="2811000" />
-      <workItem from="1594989423313" duration="5673000" />
+      <workItem from="1594989423313" duration="7453000" />
+      <workItem from="1595154569516" duration="4703000" />
+      <workItem from="1595187966005" duration="23000" />
+      <workItem from="1595221517315" duration="1497000" />
+      <workItem from="1595275287298" duration="54000" />
+      <workItem from="1595350376108" duration="2700000" />
+      <workItem from="1595357502173" duration="1937000" />
+      <workItem from="1595393532724" duration="2081000" />
+      <workItem from="1595434381762" duration="51000" />
+      <workItem from="1595441641697" duration="7000" />
+      <workItem from="1595527175184" duration="4085000" />
+      <workItem from="1595714268974" duration="2352000" />
+      <workItem from="1595783308954" duration="6968000" />
+      <workItem from="1595806574183" duration="298000" />
+      <workItem from="1595807264066" duration="485000" />
+      <workItem from="1595825705429" duration="6314000" />
+      <workItem from="1595872288332" duration="1008000" />
+      <workItem from="1595895653249" duration="68000" />
+      <workItem from="1595896064253" duration="58000" />
+      <workItem from="1595896648043" duration="64000" />
+      <workItem from="1595998816351" duration="1518000" />
+      <workItem from="1596004198917" duration="2430000" />
+      <workItem from="1596030846935" duration="4245000" />
+      <workItem from="1596051499748" duration="2935000" />
+      <workItem from="1596127320985" duration="2680000" />
+      <workItem from="1596142252891" duration="180000" />
+      <workItem from="1596672590078" duration="923000" />
+      <workItem from="1596677915661" duration="247000" />
+      <workItem from="1596719443404" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="377196000" />
+    <option name="totallyTimeSpent" value="429172000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.28108108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49853373" visible="true" weight="0.38108107" />
       <window_info id="Structure" order="1" sideWeight="0.5014663" side_tool="true" weight="0.2277027" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,17 +441,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1568915" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.16715543" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.06158358" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49797297" visible="true" weight="0.23607038" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43695015" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932432" weight="0.32991204" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932432" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49864864" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50202703" side_tool="true" weight="0.29765397" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.13343109" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -491,6 +462,7 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32972974" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -505,235 +477,208 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/WiproTalentNext/StringPatternFind.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA$ReplaceOccurence.ic" NAME="ReplaceOccurence Coverage Results" MODIFIED="1595395293239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>WiproTalentNext.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Recursion/ReturnNumberOfEyes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Rearrangement/SubArrayWithProductN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Rearrangement/ProductOfAllSubArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/UsingLinear5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/PrintFibSeries.java">
+    <entry file="file://$PROJECT_DIR$/src/Arrays/RandomW3Resource/SimpleQues.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindElementInRotSortArray6.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/AddTwoNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="191">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FirstOccLastOcc3.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSumEfficient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="638">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/TotalTimeSortedArrayRotated5.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/UniqueSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/ArithmeticOperations/AmazonPriorityQueueStringProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="75" column="28" lean-forward="true" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/SubstringComparisionHackRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="11" column="62" lean-forward="true" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOftimeStringoccurasSubeq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOftimeStringoccurasSubeq2.java" />
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/StringPatternFind.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/SubseqEveryCharAppearsMaxKtimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/ArithmeticOperations/SumOfTwoLargeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxNumericValueinString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Recursion/AdvancedRecursion/FloodFiLL.java">
+    <entry file="file://$PROJECT_DIR$/src/Strings/ArithmeticOperations/SumOfOnlyNumbersInString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+        <state relative-caret-position="462">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/Rearrangement/ProdOfArrayPuzzle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/AlphabeticCeil7.java">
+    <entry file="file://$PROJECT_DIR$/src/Strings/ArithmeticOperations/MaxSegmentValueAfterKbreakpoints.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointerAlgorithm/ClosestPairFrom2SortedArrayNative3.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaAdditionalConceptQues/Mutithreading/ThreadCreationUsingRunnableInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointerAlgorithm/PairSum1.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaAdditionalConceptQues/Mutithreading/ThreadCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="163">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IMPORTANTquesFORgeeksforgeeks">
+    <entry file="file://$PROJECT_DIR$/src/Strings/SubSequenceAndSubstrings/NumberOfSubseqASabINString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="-343">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointerAlgorithm/TripletWithSumN_5.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/ReplaceOccurence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="372">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/DisplaySecondWordUpperCase.java">
+    <entry file="file://$PROJECT_DIR$/src/FinalRevision/SubArrayWithGivenSum2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="418">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointerAlgorithm/ClosestPairFrom2SortedArrayEfficent4.java">
+    <entry file="file://$PROJECT_DIR$/src/FinalRevision/CountTriplets4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="110">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/RandomW3Resource/AddAllPrime.java">
+    <entry file="file://$PROJECT_DIR$/src/DeleteAtEnd.java" />
+    <entry file="file://$PROJECT_DIR$/serial.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalRevision/SubArrayWithGivenSum3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        <state relative-caret-position="428">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicInterviewQues/PerfectNumberWhile.java">
+    <entry file="file://$PROJECT_DIR$/src/FinalRevision/SubarrayWithGivenSum1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="44">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicInterviewQues/PerfectNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/StringCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="197">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/HighFreqDigitIn4NumberUsingStrings.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/LongestSubstring.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/ListInterface/MainClassStrudent.java" />
+    <entry file="file://$PROJECT_DIR$/src/Collections/ListInterface/Assignment.java" />
+    <entry file="file://$PROJECT_DIR$/src/Node.java" />
+    <entry file="file://$PROJECT_DIR$/src/Hashing/StudentHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/HighFreqDigitin4Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoPointerAlgorithm/TripletWith0Sum2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP/KnapsackProblems/SubsetSumProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="35" column="36" lean-forward="true" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/ElemThatAppears1TimeBiwise1.java" />
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/CheckIfSignsAreOpposite2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/ElemThatAppears1Time1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="3" column="110" selection-start-line="3" selection-start-column="110" selection-end-line="3" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/Add1toaNumberUsingBitwise_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Hashing/HashMapAnagramQues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="95">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hashing/SecondTime/HashCodeAndEquals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="533">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1150#1151#0" expanded="true" />
@@ -742,143 +687,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Rough.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Sweet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/StringWeight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BitManipulation/MultiplyIntegerWith3point5_4.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/LongestSubstringa___s.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringBasics/AdjacentCharDifferent.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/LongestSubstring2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Anagrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/demo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/AnagramSelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CheckBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CipherCaeser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/CountPalindromic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/HackWithInfy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Strings/StringCoreJavaBasics/Pangrams1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/StringCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays/RandomW3Resource/SimpleQues.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/InputOutputStreams.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/UniqueSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/AddTwoNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="9" column="53" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/CyclicSumEfficient.java">
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/Serialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="176">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileOutputStream/FOSexample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileOutputStream/Fosexample2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/Basic/Ques1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileInputStream/FISsinglechar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileInputStream/Arpit.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/BufferedOutputStreamExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaAdditionalConceptQues/Enumeration1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/Javatpoint.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileInputStream/FISstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileOutputStream/FOSexample.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaIO/FileOutputStream/FOSexamplewriteString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FinalRevision/KadaneAlgo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WiproTalentNext/STQUES2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays/Rotation/MaxSumArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
         </state>
       </provider>
     </entry>
